@@ -8,7 +8,6 @@ This file is released under MIT license.
 More detailed information is stored in LICENSE.txt
 """
 
-import exchanges
 import traceback
 from datetime import datetime, date
 from time import mktime
